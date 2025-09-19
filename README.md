@@ -14,7 +14,7 @@ O trabalho utiliza dados ambientais para prever o consumo de energia e dados de 
 
 O código completo, a exploração dos dados e os modelos de Machine Learning estão disponíveis no notebook Python no Google Colab.
 
-[Link do Python notebook no Colab]([https://www.google.com/search?q=https://colab.research.google.com/drive/...](https://colab.research.google.com/drive/1QS1T9J18vEeLufJRxHUaufJqSQpzS0SP?usp=sharing))
+[Link do Python notebook no Colab](https://colab.research.google.com/drive/1QS1T9J18vEeLufJRxHUaufJqSQpzS0SP?usp=sharing))
 
 -----
 
